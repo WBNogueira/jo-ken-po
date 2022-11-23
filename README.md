@@ -1,2 +1,2 @@
-# jo-ken-po
-Jogo jo-ken-po
+# Jo-ken-po (pedra, papel e tesoura)
+Jogo jo-ken-po feito no java 17.
